@@ -103,6 +103,11 @@ header{
     color: rgb(44, 156, 255);
 }
 
+.servicearea h1{
+    font-weight: 800;
+    color: rgb(44, 156, 255);
+}
+
 .poweredby a{
     font-size: .8em;
     color: grey;
